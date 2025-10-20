@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Biodata Diri - Modern',
+      title: 'Biodata Diri',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         useMaterial3: true,
