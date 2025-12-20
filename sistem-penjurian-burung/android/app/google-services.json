@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "725353585200",
+    "project_id": "uas-pemrogramanmobile-e4636",
+    "storage_bucket": "uas-pemrogramanmobile-e4636.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725353585200:android:f2c432bd602f6358ad2bf5",
+        "android_client_info": {
+          "package_name": "com.example.pokevault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVba7XUe6JXE2zYDNRRb6ubqiIcq8hR8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725353585200:android:524adb54d3aabc87ad2bf5",
+        "android_client_info": {
+          "package_name": "com.example.sistem_penjurian_burung"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVba7XUe6JXE2zYDNRRb6ubqiIcq8hR8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725353585200:android:ffec282cc73a60aaad2bf5",
+        "android_client_info": {
+          "package_name": "com.example.uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVba7XUe6JXE2zYDNRRb6ubqiIcq8hR8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725353585200:android:1dff894fd6f01d30ad2bf5",
+        "android_client_info": {
+          "package_name": "com.example.uas1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVba7XUe6JXE2zYDNRRb6ubqiIcq8hR8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725353585200:android:3c58f4cc1f1d8eb3ad2bf5",
+        "android_client_info": {
+          "package_name": "com.mif.perpus_glo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVba7XUe6JXE2zYDNRRb6ubqiIcq8hR8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
